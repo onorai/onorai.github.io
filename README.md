@@ -1,1 +1,3 @@
-# onorai.github.io
+# 小野。雷 
+
+#Dev+Projects
